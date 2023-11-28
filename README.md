@@ -1,32 +1,46 @@
-- 👋 Hi, I’m @ADIIS007
-- 👀 I’m interested in CODE-THAT -CHANGES-THE-WORLD
-- 🌱 I’m currently learning JAVA (DSA)
-- 💞️ I’m looking to collaborate on OPEN_SOURCE_PROJECTS
-- 📫 How to reach me
-- >🔗https://www.linkedin.com/in/athithya-ithayan-4891151bb/
-- >📨 akilanathithyaithayan@gmail.com
-- ✨profile
-  >👩‍💻 https://leetcode.com/ADIIS007/
-- 📱Mobile Frame work
-  > Flutter
-  > React native Dart
-  > Android (Kotlin & Java)
-- 🕸️ Web Frame Works
-  > React
-  > Angular
-  > Js & Ts
-- 💻 Backend
-  > Node & Express
-  > Spring Boot
-  > Nest
-- 🐍 Languages
-  > Java
-  > Ts and Js
-  > Dart
-  > Py
-  
+<div align="center">
 
-<!---
-ADIIS007/ADIIS007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi there, I'm Athithya 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=ADIIS007&color=green)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athithya-ithayan-4891151bb/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/ADIIS007/)
+
+</div>
+
+### About Me
+
+- 🌱 Currently learning Java (DSA)
+- 👀 Interested in code that changes the world
+- 💞 Looking to collaborate on open-source projects
+
+### Technologies & Tools
+
+#### Mobile Frameworks
+- Flutter
+- React Native (Dart)
+- Android (Kotlin & Java)
+
+#### Web Frameworks
+- React
+- Angular
+- JavaScript & TypeScript
+
+#### Backend
+- Node.js & Express
+- Spring Boot
+- Nest.js
+
+#### Languages
+- Java
+- TypeScript & JavaScript
+- Dart
+- Python
+
+### Contact Me
+
+- 📧 Email: akilanathithyaithayan@gmail.com
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ADIIS007&show_icons=true&hide_title=true&count_private=true&theme=radical)
